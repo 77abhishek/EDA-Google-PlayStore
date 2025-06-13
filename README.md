@@ -1,1 +1,2 @@
 # EDA-Google-PlayStore
+This repository presents a comprehensive Exploratory Data Analysis (EDA) of the Google Play Store Apps Dataset combined with the User Reviews Dataset using Python. The primary goal is to gain meaningful insights into app characteristics, installation and review patterns, and user sentiment trends. Through data cleaning, summarization, and visualization, this analysis helps uncover the factors that influence app popularity, user engagement, and overall app performance on the Google Play Store.
